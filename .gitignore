@@ -1,0 +1,11 @@
+.*
+!.gitignore
+*.x
+*.exe*
+*.o
+*.obj
+/out
+/logs
+/bindings
+/examples
+
